@@ -1,0 +1,6 @@
+[submodule "AttentionChecker--Student"]
+	path = AttentionChecker--Student
+	url = https://github.com/arnab-api/AttentionChecker--Student
+[submodule "AttentionChecker--Instructor"]
+	path = AttentionChecker--Instructor
+	url = https://github.com/arnab-api/AttentionChecker--Instructor
